@@ -1,2 +1,2 @@
 # hello-world
-I just want to say hello to the world
+It's all about me and I'm still learning
